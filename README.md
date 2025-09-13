@@ -4,23 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Stars](https://img.shields.io/badge/stars-0-orange.svg)](https://example.com)
 
-A C++ implementation of the Iterated Register Coalescing IRC algorithm, an effective method for solving the register allocation problem in compilers.
-
-## Table of contents
-
-1. About the project
-2. Key features
-3. Technologies used
-4. Project structure
-5. Getting started
-6. How to use
-7. Example main
-8. Design notes
-9. Performance tips
-10. Tests
-11. Contributing
-12. License
-13. Contact
+A C++ implementation of the Iterated Register Coalescing IRC algorithm, an optimised method for solving the register allocation problem in compilers.
 
 ## About the project
 
